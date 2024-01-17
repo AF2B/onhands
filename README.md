@@ -1,4 +1,4 @@
-# OnHands Project
+# OnHands
 
 ## Overview
 OnHands is a multi-language project that showcases a combination of Java, Clojure, and Elixir codebases. This project serves as an amalgamation of work done for various companies, demonstrating a diverse set of skills and problem-solving capabilities in these three languages.
