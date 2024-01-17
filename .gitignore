@@ -1,6 +1,8 @@
 # clojure files
 *.clj-kondo
 *.lsp
+.lsp
+.clj-kondo
 clj-kondo/
 lsp/
 
